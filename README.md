@@ -1,15 +1,15 @@
 # masonry-layout
 Simple Site with Masonry Layout
 
-### [http://irff.github.io](See Demo)
+### [See Demo](http://irff.github.io)
 
 ### Credits
 
-- Design by [http://fikristudio.com](Bagus Fikri)
-- [http://fortawesome.github.io/Font-Awesome/](Font Awesome)
-- [http://jquery.com/](jQuery)
-- [http://owlgraphic.com/owlcarousel/](Owl Carousel)
-- [http://imagesloaded.desandro.com/](imagesLoaded)
-- [http://masonry.desandro.com/](Masonry)
-- [http://modernizr.com/](http://modernizr.com/)
+- Design by [Bagus Fikri](http://fikristudio.com)
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+- [jQuery](http://jquery.com/)
+- [Owl Carousel](http://owlgraphic.com/owlcarousel/)
+- [imagesLoaded](http://imagesloaded.desandro.com/)
+- [Masonry](http://masonry.desandro.com/)
+- [Modernizr](http://modernizr.com/)
 
