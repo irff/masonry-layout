@@ -1,7 +1,7 @@
 # masonry-layout
 Simple Site with Masonry Layout
 
-### [See Demo](http://irff.github.io)
+### [See Demo](http://irff.github.io/masonry-layout)
 
 ### Credits
 
